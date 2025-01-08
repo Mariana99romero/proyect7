@@ -1,3 +1,3 @@
 # proyect7
-esta es una aplicación para visualizar conjunto de datos de anuncios de ventas de carros
-http://localhost:8501
+esta es una aplicación para visualizar el conjunto de datos de anuncios de ventas de carros
+https://proyect7.onrender.com
